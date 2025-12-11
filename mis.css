@@ -1,0 +1,8 @@
+body {background-color:rgb(25, 25, 25); color: goldenrod; text-align: center;} 
+a { text-decoration: none;}
+a:link{color:goldenrod}
+a:visited{color:red}
+a:hover{color:green;}
+a:active{color:blue;}
+li {padding: 50px;}
+p {text-align: center;}
